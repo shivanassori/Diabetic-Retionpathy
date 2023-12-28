@@ -1,4 +1,4 @@
-# Diabetic-Retionpathy - Capstone Project 
+# Diabetic Retionpathy - Capstone Project 
 
 ## Diabetic Retinopathy 
 
