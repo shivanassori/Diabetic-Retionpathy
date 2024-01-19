@@ -25,7 +25,7 @@ The goal of this capstone project is to develop an image classification model th
 * Train the model on the preprocessed dataset, using a portion for training and a separate portion for validation.
 
 4. Model evaluation
-* Evaluate the model's performance using accuracu, precision, recall and F1 score.
+* Evaluate the model's performance using accuracy, precision, recall and F1 score.
 * Analyze the confusion matrix to understand the model's strengths and weaknesses in different severity classifications.
 
 5. Model Interpretation
@@ -33,6 +33,6 @@ The goal of this capstone project is to develop an image classification model th
 * Explore methods for explaining the model's decisions to enhance interpretability.
 
 6. Conclusion and Future
-* Summarize the project findings, includiong the model's performance and comparison to other models previously created.
+* Summarize the project findings, including the model's performance and comparison to other models previously created.
 * Discuss potential enhancements or extentions to the project. 
 
