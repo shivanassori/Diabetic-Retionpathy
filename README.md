@@ -36,3 +36,10 @@ The goal of this capstone project is to develop an image classification model th
 * Summarize the project findings, including the model's performance and comparison to other models previously created.
 * Discuss potential enhancements or extentions to the project. 
 
+
+## Project Progression and Next Steps
+
+* Baseline CNN model needs debugging due to a reoccuring error while predicting test dataset.
+* Tune parameters for higher recall, especially in lower severity scores
+* Explore ResNet50 and evaluate results
+* Compare scores to other publications with regards to retinal image classification 
