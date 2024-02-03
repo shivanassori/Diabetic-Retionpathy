@@ -40,7 +40,8 @@ The goal of this capstone project is to develop an image classification model th
 
 ## Project Progression and Next Steps
 
-* Baseline CNN model needs debugging due to a reoccuring error while predicting test dataset.
+* Multi-class classification turned into binary classification due to small dataset and low computational resources
+* Baseline CNN model created, need fine tuning and regularization to avoid over fitting on training. 
 * Tune parameters for higher recall, especially in lower severity scores
 * Explore ResNet50 and evaluate results
 * Compare scores to other publications with regards to retinal image classification 
