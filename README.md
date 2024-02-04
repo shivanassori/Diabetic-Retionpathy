@@ -23,6 +23,7 @@ The goal of this capstone project is to develop an image classification model th
 * Choose suitable image classification model architecture. (CNNs)
 * Apply data augmentation techniques to enhance model generalization
 * Train the model on the preprocessed dataset, using a portion for training and a separate portion for validation.
+* Compare and evaluate other deep neural networks like ResNet50. 
 
 4. Model evaluation
 * Evaluate the model's performance using accuracy, precision, recall and F1 score.
@@ -36,3 +37,11 @@ The goal of this capstone project is to develop an image classification model th
 * Summarize the project findings, including the model's performance and comparison to other models previously created.
 * Discuss potential enhancements or extentions to the project. 
 
+
+## Project Progression and Next Steps
+
+* Multi-class classification turned into binary classification due to small dataset and low computational resources
+* Baseline CNN model created, need fine tuning and regularization to avoid over fitting on training. 
+* Tune parameters for higher recall, especially in lower severity scores
+* Explore ResNet50 and evaluate results
+* Compare scores to other publications with regards to retinal image classification 
