@@ -6,7 +6,7 @@ Diabetic retinopathy is a diabetes-related eye disease that affects the blood ve
 
 ## Project Goal
 
-The goal of this capstone project is to develop an image classification model that can accurately classify the severity of diabetic retinopathy based on retinal images. The severity levels typically range from mild to severe, and early detection can facilitate timely medical intervention to prevent vision loss. Traditional methods of diabetic retinopathy diagnosis involve manual examination of retinal images by trained ophthalmologists. However, this process can be time-consuming and may be subject to inter-observer variability. Machine learning-based image analysis offers a more efficient and consistent approach to diabetic retinopathy screening. 
+The goal of this capstone project is to develop an image classification model that can accurately classify the presence of diabetic retinopathy based on retinal images. Early detection can facilitate timely medical intervention to prevent vision loss. Traditional methods of diabetic retinopathy diagnosis involve manual examination of retinal images by trained ophthalmologists. However, this process can be time-consuming and may be subject to inter-observer variability. Machine learning-based image analysis offers a more efficient and consistent approach to diabetic retinopathy screening. 
 
 ## Project Outline 
 
